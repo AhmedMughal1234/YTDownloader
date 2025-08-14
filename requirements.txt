@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+yt-dlp
+tqdm
+ffmpeg
+requests
+beautifulsoup4
+pydub
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+scikit-image
+opencv-python           
